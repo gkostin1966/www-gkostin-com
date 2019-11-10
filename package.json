@@ -19,8 +19,13 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "babel-jest": "^24.9.0",
+    "babel-preset-gatsby": "^0.2.20",
     "gh-pages": "^2.1.1",
-    "prettier": "^1.18.2"
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "react-test-renderer": "^16.11.0"
   },
   "keywords": [
     "gatsby"
